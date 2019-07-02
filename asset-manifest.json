@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.70d2351a.chunk.css",
-    "main.js": "/myapp/static/js/main.504101c3.chunk.js",
-    "main.js.map": "/myapp/static/js/main.504101c3.chunk.js.map",
-    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
-    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
-    "static/css/2.c7bb94bc.chunk.css": "/myapp/static/css/2.c7bb94bc.chunk.css",
-    "static/js/2.f558c676.chunk.js": "/myapp/static/js/2.f558c676.chunk.js",
-    "static/js/2.f558c676.chunk.js.map": "/myapp/static/js/2.f558c676.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.d3cb4e84e601c587c7f57bc4a2ed2eaa.js": "/myapp/precache-manifest.d3cb4e84e601c587c7f57bc4a2ed2eaa.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/2.c7bb94bc.chunk.css.map": "/myapp/static/css/2.c7bb94bc.chunk.css.map",
-    "static/css/main.70d2351a.chunk.css.map": "/myapp/static/css/main.70d2351a.chunk.css.map"
+    "main.css": "/forex/static/css/main.70d2351a.chunk.css",
+    "main.js": "/forex/static/js/main.504101c3.chunk.js",
+    "main.js.map": "/forex/static/js/main.504101c3.chunk.js.map",
+    "runtime~main.js": "/forex/static/js/runtime~main.4db3b4ea.js",
+    "runtime~main.js.map": "/forex/static/js/runtime~main.4db3b4ea.js.map",
+    "static/css/2.c7bb94bc.chunk.css": "/forex/static/css/2.c7bb94bc.chunk.css",
+    "static/js/2.f558c676.chunk.js": "/forex/static/js/2.f558c676.chunk.js",
+    "static/js/2.f558c676.chunk.js.map": "/forex/static/js/2.f558c676.chunk.js.map",
+    "index.html": "/forex/index.html",
+    "precache-manifest.b655acdbfa1e0de2b07485a22d0c7723.js": "/forex/precache-manifest.b655acdbfa1e0de2b07485a22d0c7723.js",
+    "service-worker.js": "/forex/service-worker.js",
+    "static/css/2.c7bb94bc.chunk.css.map": "/forex/static/css/2.c7bb94bc.chunk.css.map",
+    "static/css/main.70d2351a.chunk.css.map": "/forex/static/css/main.70d2351a.chunk.css.map"
   }
 }
